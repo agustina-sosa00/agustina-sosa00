@@ -18,8 +18,8 @@ Me encanta combinar mi creatividad con mis habilidades técnicas para desarrolla
 
 # ¿Como puedes contactarme?
 
--LinkedIn: www.linkedin.com/in/agustina-ayelen-sosa
+- LinkedIn: www.linkedin.com/in/agustina-ayelen-sosa
 
--Discord: agustinasosa.
+- Discord: agustinasosa.
 
--Email: agustinaayelensosa2@gmail.com
+- Email: agustinaayelensosa2@gmail.com
