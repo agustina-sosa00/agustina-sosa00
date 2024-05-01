@@ -18,5 +18,7 @@ Mis tecnologias son:
 
 ¿Como puedes contactarme?
 LinkedIn: www.linkedin.com/in/agustina-ayelen-sosa
+
 Discord: agustinasosa.
+
 Email: agustinaayelensosa2@gmail.com
