@@ -1,12 +1,12 @@
-# Hola soy Agustina Sosa
+### Hola soy Agustina Sosa
 
-###¿Quien soy?
+# ¿Quien soy?
 Soy programadora Full Stack con enfoque en el diseño Front-end. Resido en Buenos Aires, Argentina. Mi viaje en el mundo de la programación comenzó hace un año y desde entonces, he estado inmersa en aprender y crecer en este emocionante campo.
 
-###¿A que me dedico?
+# ¿A que me dedico?
 Me encanta combinar mi creatividad con mis habilidades técnicas para desarrollar interfaces web intuitivas y atractivas. Estoy emocionada por seguir aprendiendo y contribuyendo al mundo del desarrollo web. 
 
-###Mis tecnologias son: 
+# Mis tecnologias son: 
 - JavaScript
 - React
 - Next
@@ -16,7 +16,7 @@ Me encanta combinar mi creatividad con mis habilidades técnicas para desarrolla
 - PostgresSQL
 - MySQL
 
-###¿Como puedes contactarme?
+# ¿Como puedes contactarme?
 
 -LinkedIn: www.linkedin.com/in/agustina-ayelen-sosa
 
