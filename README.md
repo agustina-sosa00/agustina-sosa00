@@ -17,6 +17,7 @@ Mis tecnologias son:
 - MySQL
 
 ¿Como puedes contactarme?
+
 LinkedIn: www.linkedin.com/in/agustina-ayelen-sosa
 
 Discord: agustinasosa.
