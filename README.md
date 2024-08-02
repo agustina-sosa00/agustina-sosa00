@@ -7,10 +7,11 @@ Soy programadora Full Stack con enfoque en el diseño Front-end. Resido en Bueno
 Me encanta combinar mi creatividad con mis habilidades técnicas para desarrollar interfaces web intuitivas y atractivas. Estoy emocionada por seguir aprendiendo y contribuyendo al mundo del desarrollo web. 
 
 # Mis tecnologias son: 
-- JavaScript
 - React
-- Next
+- Typescript
 - Tailwind
+- Javascript
+- Next
 - Node
 - Express
 - PostgresSQL
