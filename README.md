@@ -11,10 +11,11 @@ Me encanta combinar mi creatividad con mis habilidades técnicas para desarrolla
 - Typescript
 - Tailwind
 - Javascript
-- Next
-- Redux 
+- Redux
 - Axios
 - Context
+- Zustand
+- Tanstack Query
 
 # ¿Como puedes contactarme?
 
